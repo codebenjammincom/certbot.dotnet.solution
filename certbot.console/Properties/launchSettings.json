@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "certbot.console": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "CERTBOT_DOMAIN": "schoellmann.org",
+        "CERTBOT_VALIDATION": "blahblahblahblahNoSymbols",
+        "CERTBOT_TOKEN": "CERTBOT_TOKEN",
+        "CERTBOT_REMAINING_CHALLENGES": "Value",
+        "CERTBOT_ALL_DOMAINS": "Value"
+      }
+    }
+  }
+}
